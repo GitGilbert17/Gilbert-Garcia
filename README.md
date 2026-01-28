@@ -63,7 +63,7 @@ philosophy: "The best way to learn is by breaking things (and then fixing them)"
   
 </div>
 
-### 🎨 Frontend Development
+### 🎨 Frontend Development Experience
 
 <div align="center">
   
@@ -74,7 +74,7 @@ philosophy: "The best way to learn is by breaking things (and then fixing them)"
   
 </div>
 
-### ⚙️ Backend Development
+### ⚙️ Backend Development Experience
 
 <div align="center">
   
